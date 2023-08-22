@@ -9,15 +9,13 @@
 
 - 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/)
 
-- 🌱 I’m currently learning Next.js,TailwindCss
+- 🌱 I’m currently learning Next.js, TailwindCss
 
-- 👯 I’m looking to collaborate on [Meta Solutions](http://metasolutions.com.pk/)
-
-- 🤝 I’m looking for help with Kids Cloth Booking
+- 🤝 I’m looking for help with Kid's Cloth Application
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulRafayDeveloper](https://github.com/AbdulRafayDeveloper)
 
-- 💬 Ask me about react.js,node.js,express,next.js,mongoDB,mysql,postgreSql,javascript,jquery,bootstarp,tailwindCss
+- 💬 Ask me about react.js,node.js, express, next.js,MongoDB,MySQL, PostgreSQL, javascript, jquery,bootstarp,tailwindCss
 
 - 📫 How to reach me **amirrafay135@gmail.com**
 
