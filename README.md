@@ -1,29 +1,31 @@
+![logo](https://github.com/AbdulRafayDeveloper/AbdulRafayDeveloper/blob/main/7.png)
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.mooc.org/hs-fs/hubfs/learn-programming-career-jpg.jpeg?width=500&name=learn-programming-career-jpg.jpeg">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHDFpmvmckksbKLMsTRQqPlKmFWzkG4P7mQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
 
-- 🔭 I’m currently working on [One o One Electronics](https://101electronics.pk/)
+- 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/)
 
 - 🌱 I’m currently learning Next.js,TailwindCss
 
 - 👯 I’m looking to collaborate on [Meta Solutions](http://metasolutions.com.pk/)
 
-- 🤝 I’m looking for help with Kid's Cloth Application
+- 🤝 I’m looking for help with Kids Cloth Booking
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulRafayDeveloper](https://github.com/AbdulRafayDeveloper)
 
-- 💬 Ask me about react.js, node.js, express, next.js, MongoDB, MySQL, PostgreSQL, javascript, jquery, bootstarp, tailwindCss
+- 💬 Ask me about react.js,node.js,express,next.js,mongoDB,mysql,postgreSql,javascript,jquery,bootstarp,tailwindCss
 
-- 📫 How to reach me *amirrafay135@gmail.com*
+- 📫 How to reach me **amirrafay135@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abdulrafay-ar/](https://www.linkedin.com/in/abdulrafay-ar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/csrafay21404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="csrafay21404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul rafay🌟mern stack developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay🌟mern stack developer" height="30" width="40" /></a>
 <a href="https://fb.com/abdul rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" /></a>
