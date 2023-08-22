@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulRafayDeveloper](https://github.com/AbdulRafayDeveloper)
 
-- 💬 Ask me about react.js,node.js, express, next.js,MongoDB,MySQL, PostgreSQL, javascript, jquery,bootstarp,tailwindCss
+- 💬 Ask me about react.js, Node.js, Express, Next.js, MongoDB, MySQL, PostgreSQL, Javascript, Jquery, Bootstarp, TailwindCss
 
 - 📫 How to reach me **amirrafay135@gmail.com**
 
