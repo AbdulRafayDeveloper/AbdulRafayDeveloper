@@ -34,10 +34,14 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" />
 </a>
 <a href="skype:live:.cid.1234567890abcdef?chat" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" />
-  [![Fiverr](https://img.shields.io/badge/Fiverr-0084ff?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/abdulrafay1197?up_rollout=true)
-[![Upwork](https://img.shields.io/badge/Upwork-6fbc2e?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01e4165f29ff9822be)
-</a>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" /></a>
+  <a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
+    <img src="https://img.shields.io/badge/Fiverr-0084ff?style=for-the-badge&logo=fiverr" alt="Fiverr" height="30" width="100" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
+    <img src="https://img.shields.io/badge/Upwork-6fbc2e?style=for-the-badge&logo=upwork" alt="Upwork" height="30" width="100" />
+  </a>
+
 </p>
 
 ---
