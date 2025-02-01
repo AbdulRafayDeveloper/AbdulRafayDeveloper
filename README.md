@@ -1,7 +1,10 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
 
-<h3 align="center">Hi 👋, I'm Abdul Rafay</h3>
+<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
+
+---
+
 <img align="right" alt="Coding" width="300" height="370" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
@@ -39,19 +42,19 @@
 <h3 align="left">Key Projects</h3>
 <ul>
   <li>
-    <strong><a href="https://github.com/AbdulRafayDeveloper/101electronics">One O One Electronics</a></strong> - A comprehensive e-commerce platform built using the MERN stack, featuring product listings, cart functionality, order management, and payment gateway integration.
+    <strong><a href="https://genx-career.vercel.app/">GenX Career</a></strong> - A job portal that aggregates listings from multiple sources, offering AI-driven CV matching, job recommendations, and professional resume generation tools.
+  </li>
+    <li>
+    <strong><a href="https://paragraph-rewriter-frontend.vercel.app/">Rewordify</a></strong> - An AI-powered content rewriting tool that allows users to rephrase sentences, adjust tone and length, and upload files for automated content optimization.
   </li>
   <li>
-    <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Chatbot">AI Chatbot Integration</a></strong> - An AI chatbot integrated into a website using OpenAI's GPT-3 API to provide real-time customer support with advanced conversational capabilities.
+    <strong><a href="https://tools.digitalsearchgroup.com">SEOHub</a></strong> - An automated SEO tool that generates keywords and optimized pages based on business details, providing sector-based analytics and easy data management for admins.
   </li>
   <li>
-    <strong><a href="https://github.com/AbdulRafayDeveloper/React-Task-Manager">React Task Manager</a></strong> - A task management application built with React and Node.js, offering features like task creation, editing, and real-time updates using WebSockets.
+    <strong><a href="https://flexiva-v2.vercel.app/">Zorova Health</a></strong> - A wellness platform offering massage, fitness, weight loss programs, and bodyguard services with real-time tracking, memberships, and service provider management.
   </li>
   <li>
-    <strong><a href="https://github.com/AbdulRafayDeveloper/MongoDB-Admin-Dashboard">MongoDB Admin Dashboard</a></strong> - A dashboard to manage and visualize MongoDB databases with features like database querying, data visualization, and user management.
-  </li>
-  <li>
-    <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Powered-Resume-Parser">AI-Powered Resume Parser</a></strong> - A resume parsing application using AI models to extract key information from resumes and provide a summary of skills, experience, and education.
+    <strong><a href="https://compresspdfonline.net/">PDFify</a></strong> - A document management tool that compresses PDFs, converts PDFs to Word (and vice versa) and ensures data privacy with auto-file deletion after one hour.
   </li>
 </ul>
 
