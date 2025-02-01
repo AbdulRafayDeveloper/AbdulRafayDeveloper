@@ -2,8 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHDFpmvmckksbKLMsTRQqPlKmFWzkG4P7mQ&usqp=CAU">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
+
+<p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
+
   <div style="flex: 1;">
     <h2>About Me</h2>
     <p>
@@ -19,11 +23,6 @@
       <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
     </ul>
   </div>
-
-  <div>
-    <img src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98" alt="Abdul Rafay Mern Stack Developer" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%;">
-  </div>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
