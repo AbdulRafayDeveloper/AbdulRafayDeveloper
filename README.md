@@ -1,6 +1,6 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
 
-<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
+<h3 align="center">Hi 👋, I'm Abdul Rafay</h3>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="300" height="370" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
 
@@ -22,7 +22,7 @@
     <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
   </ul>
 
-<h2 align="left">Skills Summary</h2>
+<h3 align="left">Skills Summary</h3>
 <p align="left">
   <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
   <strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask<br>
