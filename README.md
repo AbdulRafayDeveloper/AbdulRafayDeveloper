@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
 
-<div style="flex: 1;">
   <h2>About Me</h2>
   <p>
     I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
@@ -22,7 +21,6 @@
     <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
     <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
   </ul>
-</div>
 ---
 
 <h2 align="left">Skills Summary</h2>
