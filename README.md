@@ -24,37 +24,28 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
 </a>
-  <a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
-</a>
-
 <a href="https://www.instagram.com/abdul_rafay_aj/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" />
 </a>
-
 <a href="https://www.linkedin.com/in/abdulrafay-ar/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" />
 </a>
-
 <a href="https://github.com/AbdulRafayDeveloper" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" />
 </a>
-
 <a href="skype:live:.cid.1234567890abcdef?chat" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" />
 </a>
-
 <a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="abdul rafay" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Fiverr_logo_2020.svg" alt="abdul rafay" height="30" width="40" />
 </a>
-
 <a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="abdul rafay" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Upwork_logo.svg" alt="abdul rafay" height="30" width="40" />
 </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
