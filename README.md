@@ -8,6 +8,56 @@
 
 <p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
 
+---
+
+<h2 align="left">About Me</h2>
+<p align="left">
+  I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
+</p>
+
+---
+
+<h2 align="left">Skills Summary</h2>
+<p align="left">
+  - **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript
+  - **Backend:** Node.js, Express.js, FastAPI, Flask
+  - **Databases:** MongoDB, MySQL, Firebase, Supabase
+  - **Tools & Technologies:** Git, GitHub, Firebase, Supabase, REST APIs, Web Scraping, AI Integrations, Redux, WebSockets, GraphQL
+  - **Cloud Platforms:** AWS, Heroku, DigitalOcean
+  - **DevOps:** Docker, CI/CD, Nginx
+  - **Machine Learning/AI:** TensorFlow, Keras, OpenAI API, LangChain, LangGraph
+</p>
+
+---
+
+<h2 align="left">Key Projects</h2>
+<ul>
+  <li>
+    <strong><a href="https://github.com/AbdulRafayDeveloper/101electronics">One O One Electronics</a></strong> - A comprehensive e-commerce platform built using the MERN stack, featuring product listings, cart functionality, order management, and payment gateway integration.
+  </li>
+  <li>
+    <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Chatbot">AI Chatbot Integration</a></strong> - An AI chatbot integrated into a website using OpenAI's GPT-3 API to provide real-time customer support with advanced conversational capabilities.
+  </li>
+  <li>
+    <strong><a href="https://github.com/AbdulRafayDeveloper/React-Task-Manager">React Task Manager</a></strong> - A task management application built with React and Node.js, offering features like task creation, editing, and real-time updates using WebSockets.
+  </li>
+  <li>
+    <strong><a href="https://github.com/AbdulRafayDeveloper/MongoDB-Admin-Dashboard">MongoDB Admin Dashboard</a></strong> - A dashboard to manage and visualize MongoDB databases with features like database querying, data visualization, and user management.
+  </li>
+  <li>
+    <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Powered-Resume-Parser">AI-Powered Resume Parser</a></strong> - A resume parsing application using AI models to extract key information from resumes and provide a summary of skills, experience, and education.
+  </li>
+</ul>
+
+---
+
+<h2 align="left">Short Intro</h2>
+<p align="left">
+  Hello, I'm Abdul Rafay. I specialize in full-stack development using modern technologies like React, Node.js, and MongoDB. In addition to my passion for web development, I am currently diving deep into AI integrations for intelligent applications. With experience in both front-end and back-end development, I strive to deliver high-quality, efficient, and user-friendly applications.
+</p>
+
+---
+
 - 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/) and integrating advanced AI solutions into various applications.
 - 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.
 - 🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.
@@ -71,31 +121,13 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-right: 10px;"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="50" height="50" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="50" height="50" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="50" height="50" style="margin-right: 10px;"/>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="margin-right: 10px;"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrafaydeveloper&show_icons=true&locale=en&layout=compact" alt="abdulrafaydeveloper" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrafaydeveloper&show_icons=true&locale=en" alt="abdulrafaydeveloper" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafaydeveloper&" alt="abdulrafaydeveloper" /></p>
