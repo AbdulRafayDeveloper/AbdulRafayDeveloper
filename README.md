@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
 
-- 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/)
+- 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/) and integrating advanced AI solutions into various applications.
 
-- 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration.
+- 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.
 
-- 🤝 I’m looking for help with Kid's Cloth Application
+- 🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulRafayDeveloper](https://github.com/AbdulRafayDeveloper)
 
-- 💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, and jQuery.
+- 💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.
 
 - 📫 How to reach me **amirrafay135@gmail.com**
 
