@@ -1,6 +1,6 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
 <head>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 </head>
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
