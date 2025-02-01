@@ -12,7 +12,7 @@
 <p>
     I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
 </p>
-  <ul>
+<ul>
     <li>🔭 I’m currently working on <a href="https://101electronics.pk/">One O One Electronics</a> and integrating advanced AI solutions into various applications.</li>
     <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
     <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
@@ -20,7 +20,9 @@
     <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
     <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
     <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
-  </ul>
+</ul>
+
+---
 
 <h3 align="left">Skills Summary</h3>
 <p align="left">
@@ -32,7 +34,9 @@
   <strong>Machine Learning/AI:</strong> OpenAI API, GEMINI API, GROQ API, LangChain, LangGraph<br>
 </p>
 
-<h2 align="left">Key Projects</h2>
+---
+
+<h3 align="left">Key Projects</h3>
 <ul>
   <li>
     <strong><a href="https://github.com/AbdulRafayDeveloper/101electronics">One O One Electronics</a></strong> - A comprehensive e-commerce platform built using the MERN stack, featuring product listings, cart functionality, order management, and payment gateway integration.
@@ -50,6 +54,8 @@
     <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Powered-Resume-Parser">AI-Powered Resume Parser</a></strong> - A resume parsing application using AI models to extract key information from resumes and provide a summary of skills, experience, and education.
   </li>
 </ul>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
