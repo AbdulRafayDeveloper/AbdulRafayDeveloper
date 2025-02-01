@@ -2,27 +2,27 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
+<img align="right" alt="Coding" width="300" height="300" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
 <p align="left"> <a href="https://twitter.com/csrafay21404" target="blank"><img src="https://img.shields.io/twitter/follow/csrafay21404?logo=twitter&style=for-the-badge" alt="csrafay21404" /></a> </p>
 
-  <div style="flex: 1;">
-    <h2>About Me</h2>
-    <p>
-      I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
-    </p>
-    <ul>
-      <li>🔭 I’m currently working on <a href="https://101electronics.pk/">One O One Electronics</a> and integrating advanced AI solutions into various applications.</li>
-      <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
-      <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
-      <li>👨‍💻 All of my projects are available at <a href="https://github.com/AbdulRafayDeveloper">GitHub</a>.</li>
-      <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
-      <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
-      <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
-    </ul>
-  </div>
+<div style="flex: 1;">
+  <h2>About Me</h2>
+  <p>
+    I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
+  </p>
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://101electronics.pk/">One O One Electronics</a> and integrating advanced AI solutions into various applications.</li>
+    <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
+    <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/AbdulRafayDeveloper">GitHub</a>.</li>
+    <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
+    <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
+    <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
+  </ul>
+</div>
 ---
 
 <h2 align="left">Skills Summary</h2>
