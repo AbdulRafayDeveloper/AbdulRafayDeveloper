@@ -20,28 +20,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/abdul_rafay_aj/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/abdulrafay-ar/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" />
-</a>
-<a href="https://github.com/AbdulRafayDeveloper" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" />
-</a>
-<a href="skype:live:.cid.1234567890abcdef?chat" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook" alt="Facebook" height="30" width="100" />
+  </a>
+  <a href="https://www.instagram.com/abdul_rafay_aj/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" height="30" width="100" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrafay-ar/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="30" width="100" />
+  </a>
+  <a href="https://github.com/AbdulRafayDeveloper" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" height="30" width="100" />
+  </a>
+  <a href="skype:live:.cid.1234567890abcdef?chat" target="blank">
+    <img src="https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=skype" alt="Skype" height="30" width="100" />
+  </a>
   <a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
     <img src="https://img.shields.io/badge/Fiverr-0084ff?style=for-the-badge&logo=fiverr" alt="Fiverr" height="30" width="100" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
     <img src="https://img.shields.io/badge/Upwork-6fbc2e?style=for-the-badge&logo=upwork" alt="Upwork" height="30" width="100" />
   </a>
-
 </p>
 
 ---
