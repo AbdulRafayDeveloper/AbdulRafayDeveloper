@@ -27,12 +27,34 @@
 <a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
 </a>
-<a href="https://instagram.com/abdulrafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/abdulrafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" /></a>
-<a href="https://github.com/AbdulRafayDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" /></a>
-<a href="skype:AbdulRafay_Skype?chat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/abdulrafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="abdul rafay" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01b143a5f4f6b2d308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="abdul rafay" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/abdul_rafay_aj/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdulrafay-ar/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" />
+</a>
+
+<a href="https://github.com/AbdulRafayDeveloper" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" />
+</a>
+
+<a href="skype:live:.cid.1234567890abcdef?chat" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" />
+</a>
+
+<a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/fiverr.svg" alt="abdul rafay" height="30" width="40" />
+</a>
+
+<a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="abdul rafay" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
