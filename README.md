@@ -44,12 +44,13 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="AbdulRafay_Skype" height="30" width="40" />
 </a>
 <a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Fiverr_logo_2020.svg" alt="abdul rafay" height="30" width="40" />
+  <i class="fab fa-fiverr" style="font-size: 30px;"></i>
 </a>
 
 <a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Upwork_logo.svg" alt="abdul rafay" height="30" width="40" />
+  <i class="fab fa-upwork" style="font-size: 30px;"></i>
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
