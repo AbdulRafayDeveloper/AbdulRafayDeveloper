@@ -1,4 +1,7 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
+<head>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
+</head>
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
@@ -43,6 +46,7 @@
 <a href="https://www.fiverr.com/abdulrafay1197?up_rollout=true" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Fiverr_logo_2020.svg" alt="abdul rafay" height="30" width="40" />
 </a>
+
 <a href="https://www.upwork.com/freelancers/~01e4165f29ff9822be" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Upwork_logo.svg" alt="abdul rafay" height="30" width="40" />
 </a>
