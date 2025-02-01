@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
+<img align="right" alt="Coding" width="300" height="350" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
@@ -21,20 +21,16 @@
     <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
     <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
   </ul>
----
 
 <h2 align="left">Skills Summary</h2>
 <p align="left">
   <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
   <strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask<br>
   <strong>Databases:</strong> MongoDB, MySQL, Firebase, Supabase<br>
-  <strong>Tools & Technologies:</strong> Git, GitHub, Firebase, Supabase, REST APIs, Web Scraping, AI Integrations, Redux, WebSockets, GraphQL<br>
-  <strong>Cloud Platforms:</strong> AWS, Heroku, DigitalOcean<br>
-  <strong>DevOps:</strong> Docker, CI/CD, Nginx<br>
-  <strong>Machine Learning/AI:</strong> TensorFlow, Keras, OpenAI API, LangChain, LangGraph<br>
+  <strong>Tools & Technologies:</strong> Git, GitHub, Firebase, Supabase, REST APIs, AI Integrations, Redux, WebSockets<br>
+  <strong>Cloud Platforms:</strong> Vercel<br>
+  <strong>Machine Learning/AI:</strong> OpenAI API, GEMINI API, GROQ API, LangChain, LangGraph<br>
 </p>
-
----
 
 <h2 align="left">Key Projects</h2>
 <ul>
@@ -54,8 +50,6 @@
     <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Powered-Resume-Parser">AI-Powered Resume Parser</a></strong> - A resume parsing application using AI models to extract key information from resumes and provide a summary of skills, experience, and education.
   </li>
 </ul>
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
