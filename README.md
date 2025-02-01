@@ -24,7 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.facebook.com/profile.php?id=100011401648802](https://www.facebook.com/profile.php?id=100011401648802)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" /></a> 
+<a href="https://www.facebook.com/profile.php?id=100011401648802" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul rafay mern stack developer" height="30" width="40" />
+</a>
 <a href="https://instagram.com/abdulrafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul rafay" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/abdulrafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul rafay" height="30" width="40" /></a>
 <a href="https://github.com/AbdulRafayDeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AbdulRafayDeveloper" height="30" width="40" /></a>
