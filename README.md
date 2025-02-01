@@ -1,6 +1,7 @@
-![logo](https://github.com/AbdulRafayDeveloper/AbdulRafayDeveloper/blob/main/7.png)
+![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
+
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
+<h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan, Driven by Passion</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHDFpmvmckksbKLMsTRQqPlKmFWzkG4P7mQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
