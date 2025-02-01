@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
 <h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHDFpmvmckksbKLMsTRQqPlKmFWzkG4P7mQ&usqp=CAU">
+
+![Abdul Rafay Mern Stack Developer](https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
@@ -15,17 +16,25 @@
   I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
 </p>
 
+- 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/) and integrating advanced AI solutions into various applications.
+- 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.
+- 🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulRafayDeveloper).
+- 💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.
+- 📫 How to reach me: **amirrafay135@gmail.com**
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/abdulrafay-ar/)
+
 ---
 
 <h2 align="left">Skills Summary</h2>
 <p align="left">
-  - **Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript
-  - **Backend:** Node.js, Express.js, FastAPI, Flask
-  - **Databases:** MongoDB, MySQL, Firebase, Supabase
-  - **Tools & Technologies:** Git, GitHub, Firebase, Supabase, REST APIs, Web Scraping, AI Integrations, Redux, WebSockets, GraphQL
-  - **Cloud Platforms:** AWS, Heroku, DigitalOcean
-  - **DevOps:** Docker, CI/CD, Nginx
-  - **Machine Learning/AI:** TensorFlow, Keras, OpenAI API, LangChain, LangGraph
+  <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
+  <strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask<br>
+  <strong>Databases:</strong> MongoDB, MySQL, Firebase, Supabase<br>
+  <strong>Tools & Technologies:</strong> Git, GitHub, Firebase, Supabase, REST APIs, Web Scraping, AI Integrations, Redux, WebSockets, GraphQL<br>
+  <strong>Cloud Platforms:</strong> AWS, Heroku, DigitalOcean<br>
+  <strong>DevOps:</strong> Docker, CI/CD, Nginx<br>
+  <strong>Machine Learning/AI:</strong> TensorFlow, Keras, OpenAI API, LangChain, LangGraph<br>
 </p>
 
 ---
@@ -48,23 +57,6 @@
     <strong><a href="https://github.com/AbdulRafayDeveloper/AI-Powered-Resume-Parser">AI-Powered Resume Parser</a></strong> - A resume parsing application using AI models to extract key information from resumes and provide a summary of skills, experience, and education.
   </li>
 </ul>
-
----
-
-<h2 align="left">Short Intro</h2>
-<p align="left">
-  Hello, I'm Abdul Rafay. I specialize in full-stack development using modern technologies like React, Node.js, and MongoDB. In addition to my passion for web development, I am currently diving deep into AI integrations for intelligent applications. With experience in both front-end and back-end development, I strive to deliver high-quality, efficient, and user-friendly applications.
-</p>
-
----
-
-- 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/) and integrating advanced AI solutions into various applications.
-- 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.
-- 🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AbdulRafayDeveloper).
-- 💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.
-- 📫 How to reach me: **amirrafay135@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/abdulrafay-ar/)
 
 ---
 
@@ -131,3 +123,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="margin-right: 10px;"/>
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrafaydeveloper&show_icons=true&locale=en&layout=compact" alt="abdulrafaydeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrafaydeveloper&show_icons=true&locale=en" alt="abdulrafaydeveloper" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrafaydeveloper&" alt="abdulrafaydeveloper" /></p>
+
