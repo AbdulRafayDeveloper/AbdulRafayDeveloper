@@ -1,7 +1,7 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan, Driven by Passion</h3>
+<h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHDFpmvmckksbKLMsTRQqPlKmFWzkG4P7mQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on [One O One Electronics](https://101electronics.pk/)
 
-- 🌱 I’m currently learning Next.js, TailwindCss
+- 🌱 I’m currently learning FastAPI for Langchain and LangGraph integration.
 
 - 🤝 I’m looking for help with Kid's Cloth Application
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdulRafayDeveloper](https://github.com/AbdulRafayDeveloper)
 
-- 💬 Ask me about react.js, Node.js, Express, Next.js, MongoDB, MySQL, PostgreSQL, Javascript, Jquery, Bootstarp, TailwindCss
+- 💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, and jQuery.
 
 - 📫 How to reach me **amirrafay135@gmail.com**
 
