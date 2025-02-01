@@ -5,7 +5,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" height="370" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
+<img align="right" alt="Coding" width="300" height="380" src="https://github.com/user-attachments/assets/02875dbf-0bd4-4b6a-b9a6-c15020aa6b98">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrafaydeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrafaydeveloper" /> </p>
 
