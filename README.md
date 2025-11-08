@@ -17,9 +17,9 @@
 </p>
 <ul>
     <li>🔗 Check out my work and projects: 
-        <a href="[https://abdulrafay.com](https://rafaydev.vercel.app/)">Portfolio</a> | 
+        <a href="https://rafaydev.vercel.app">Portfolio</a> | 
         <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
-        <a href="[https://www.linkedin.com/in/abdulrafay-ar/](https://www.linkedin.com/in/abdulrafay-ai-mern/)">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/abdulrafay-ai-mern">LinkedIn</a>
     </li>
     <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
     <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
