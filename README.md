@@ -21,6 +21,7 @@
         <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
         <a href="https://www.linkedin.com/in/abdulrafay-ai-mern">LinkedIn</a> |
         <a href="https://drive.google.com/open?id=1I82abkOrCpCi2rSvcm1y7HDvxiaQXrV2&usp=drive_fs">Project Videos</a>
+     <br></br>
     </li>
     <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
     <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
