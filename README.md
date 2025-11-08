@@ -13,16 +13,19 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-    I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to grow my skills in the software development and AI fields.
+    I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to expand my skills in software development and AI.
 </p>
 <ul>
-    <li>🔭 I’m currently working on <a href="https://101electronics.pk/">One O One Electronics</a> and integrating advanced AI solutions into various applications.</li>
+    <li>🔗 Check out my work and projects: 
+        <a href="https://yovho.com">Yovho.com</a> | 
+        <a href="https://abdulrafay.com">Portfolio</a> | 
+        <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
+        <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a>
+    </li>
     <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
     <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/AbdulRafayDeveloper">GitHub</a>.</li>
     <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
-    <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li>
-    <li>📄 Know about my experiences: <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a></li>
+    <li>📫 How to reach me: <strong>amirrafay135@gmail.com</strong></li> 
 </ul>
 
 ---
