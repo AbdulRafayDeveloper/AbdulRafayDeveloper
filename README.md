@@ -21,6 +21,7 @@
         <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
         <a href="https://www.linkedin.com/in/abdulrafay-ai-mern">LinkedIn</a> |
         <a href="https://drive.google.com/open?id=1I82abkOrCpCi2rSvcm1y7HDvxiaQXrV2&usp=drive_fs">Project Videos</a>
+        <a href="https://drive.google.com/drive/folders/1qoxga9rYEc63WM-8ZRTAVwgxMgdYyaSi?usp=drive_link">Resume</a>
      <br></br>
     </li>
     <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
