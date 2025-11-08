@@ -16,7 +16,7 @@
     I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to expand my skills in software development and AI.
 </p>
 <ul>
-    <li>🔗 Check out my work and projects: 
+    <li>🔗 Check out my work and projects: <br></br>
         <a href="https://rafaydev.vercel.app">Portfolio Website</a> | 
         <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
         <a href="https://www.linkedin.com/in/abdulrafay-ai-mern">LinkedIn</a> |
