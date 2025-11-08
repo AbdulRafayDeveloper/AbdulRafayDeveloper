@@ -17,7 +17,6 @@
 </p>
 <ul>
     <li>🔗 Check out my work and projects: 
-        <a href="https://yovho.com">Yovho.com</a> | 
         <a href="https://abdulrafay.com">Portfolio</a> | 
         <a href="https://github.com/AbdulRafayDeveloper">GitHub</a> | 
         <a href="https://www.linkedin.com/in/abdulrafay-ar/">LinkedIn</a>
@@ -32,12 +31,12 @@
 
 <h3 align="left">Skills Summary</h3>
 <p align="left">
-  <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
+  <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
   <strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask<br>
   <strong>Databases:</strong> MongoDB, MySQL, Firebase, Supabase<br>
   <strong>Tools & Technologies:</strong> Git, GitHub, Firebase, Supabase, REST APIs, AI Integrations, Redux, WebSockets<br>
   <strong>Cloud Platforms:</strong> Vercel<br>
-  <strong>Machine Learning/AI:</strong> OpenAI API, GEMINI API, GROQ API, LangChain, LangGraph<br>
+  <strong>Machine Learning/AI:</strong> OpenAI API, GEMINI API, GROQ API, Hugging Face Models, LangChain, LangGraph<br>
 </p>
 
 ---
