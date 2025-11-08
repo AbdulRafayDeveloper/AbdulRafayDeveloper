@@ -1,7 +1,7 @@
 ![Mern Stack Developer](https://github.com/user-attachments/assets/9e028a36-989c-47bf-8cb2-ffa32ab46ca7)
 
-<h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">Innovative MERN Stack Developer & AI Solutions Developer from Pakistan.</h3>
+<h1 align="center">Hi 👋, I'm Abdul Rafay with <b>2+ years</b> of experience</h1>
+<h3 align="center">Innovative Full-Stack MERN & AI Solutions Developer from Pakistan.</h3>
 
 ---
 
