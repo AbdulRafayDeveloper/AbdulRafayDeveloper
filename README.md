@@ -1,5 +1,6 @@
+<p align="center">
 <img width="716" height="204" alt="BANNER IMAGE" src="https://github.com/user-attachments/assets/e38de74a-bd5b-4690-9ed3-7be180971636" />
-
+</p>
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay with <b>2+ years</b> of experience</h1>
 <h3 align="center">Innovative Full-Stack MERN & AI Solutions Developer from Pakistan.</h3>
