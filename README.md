@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Rafay with <b>5+ years</b> of experience</h1>
-<h3 align="center">Innovative Full-Stack MERN & AI Solutions Developer from Pakistan.</h3>
+<h3 align="center">Innovative Full-Stack AI Developer from Pakistan.</h3>
 
 ---
 
@@ -13,24 +13,24 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-    I am a passionate MERN stack developer and AI solutions developer with extensive experience in building scalable and efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to expand my skills in software development and AI.
+    I am a passionate Full-Stack AI Developer with extensive experience building scalable, efficient web applications. I focus on enhancing user experience by integrating advanced AI solutions into various software applications. I am always on the lookout for new challenges and opportunities to expand my skills in software development and AI.
 </p>
 <ul>
-    <li>🌱 I’m currently learning FastAPI for Langchain and LangGraph integration to enhance my backend capabilities.</li>
+    <li>🌱 I’m currently learning Advanced Agentic AI to enhance my capabilities.</li>
     <li>🤝 I’m looking for collaboration opportunities in AI development, software development, or full-stack projects with a focus on scalable, efficient systems.</li>
-    <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Bootstrap, Tailwind CSS, MongoDB, MySQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
+    <li>💬 Ask me about React.js, Next.js, Node.js, Express.js, Flask, FastAPI, Django, Bootstrap, Tailwind CSS, MongoDB, MySQL, PostgreSQL, Firebase, Supabase, JavaScript, jQuery, AI integration, and REST API development.</li>
 </ul>
 
 ---
 
 <h3 align="left">Skills Summary</h3>
 <p align="left">
-  <strong>Frontend:</strong> React.js, Next.js, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
-  <strong>Backend:</strong> Node.js, Express.js, FastAPI, Flask<br>
-  <strong>Databases:</strong> MongoDB, MySQL, Firebase, Supabase<br>
+  <strong>Frontend:</strong> React.js, Next.js, Vue.js, AngularJS, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JavaScript (ES6+), TypeScript<br>
+  <strong>Backend:</strong> Node.js, NestJS, Express.js, FastAPI, Flask, Django<br>
+  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL, Firebase, Supabase, Pinecone<br>
   <strong>Tools & Technologies:</strong> Git, GitHub, Firebase, Supabase, REST APIs, AI Integrations, Redux, WebSockets<br>
-  <strong>Cloud Platforms:</strong> Vercel<br>
-  <strong>Machine Learning/AI:</strong> OpenAI API, GEMINI API, GROQ API, Hugging Face Models, LangChain, LangGraph<br>
+  <strong>Cloud Platforms:</strong> Vercel, Netlify, Railway, AWS<br>
+  <strong>Machine Learning/AI:</strong> OpenAI API, Claud API, GEMINI API, GROQ API, Hugging Face Models, LangChain, LangGraph<br>
 </p>
 
 ---
